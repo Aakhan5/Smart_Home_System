@@ -1,9 +1,9 @@
 # Smart_Home_System
 
 Colaborators:
-Haris Tahiri
-Raja Muhammad Hammad 
-Abdul Ahad Khan
+Haris Tahiri |
+Raja Muhammad Hammad |
+Abdul Ahad Khan |
 Asad Ali
 
 An AI-driven Smart Home Automation platform designed for modern homeowners and families seeking convenience, security, and energy efficiency. This system integrates control of lighting, appliances, climate, and security into a unified platform with real-time monitoring, voice/mobile access, and AI-powered automation.
